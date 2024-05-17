@@ -25,7 +25,7 @@ I'm excited about the future of technology and am always looking for new challen
 
 Feel free to reach out or check out my projects to see what I've been working on.
 
-Skills: MSSQL / C# / ASP.Net / ASP.Net Core / Entity Framework / ADO.Net / Bootstrap / Angular / REACT / MAUI / JS / HTML / CSS
+**Skills:** MSSQL / C# / ASP.Net / ASP.Net Core / Entity Framework / ADO.Net / Bootstrap / Angular / REACT / MAUI / JS / HTML / CSS
 
 - 🔭 I’m currently working on Tour & Travel management software 
 - 🌱 I’m currently learning MAUI 
