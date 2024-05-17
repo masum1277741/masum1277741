@@ -49,7 +49,7 @@ Feel free to reach out or check out my projects to see what I've been working on
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masum1277741)](https://github.com/anuraghazra/github-readme-stats)
+https://camo.githubusercontent.com/9956eafe39bf06a30858b72293cb039cf5c3d1becc4ac87c3b63ab5a529422a4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a726126686964655f70726f67726573733d74727565
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masum1277741&show_icons=true)  
 
