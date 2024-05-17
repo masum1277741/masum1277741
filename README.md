@@ -23,6 +23,7 @@ I'm a passionate Full Stack Developer with a strong focus on .NET technology.
 **Collaboration & Communication:** Strong team player with excellent communication skills, able to collaborate effectively with cross-functional teams.
                                            
 **My Approach**
+
 **Quality Code:** I believe in writing clean, maintainable, and efficient code. Following best practices and industry standards is a priority in all my projects.
 
 **Continuous Learning:** Technology is always evolving, and so am I. I stay updated with the latest trends and advancements in the development world to ensure I'm using the best tools and methodologies available.
