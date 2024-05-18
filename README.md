@@ -54,5 +54,5 @@ Feel free to reach out or check out my projects to see what I've been working on
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masum1277741&&theme=dracula&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=masum1277741)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=masum1277741&theme=material&border_radius=4.7)](https://git.io/streak-stats)  
 
