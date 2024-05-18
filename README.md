@@ -52,7 +52,7 @@ Feel free to reach out or check out my projects to see what I've been working on
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masum1277741&hide_progress=true)
 
-![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=masum1277741&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=masum1277741&&theme=dark&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=masum1277741)  
 
