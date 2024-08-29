@@ -1,42 +1,28 @@
-![Dot Net Developer](https://media.licdn.com/dms/image/D4E16AQHJVvk7Iz06kw/profile-displaybackgroundimage-shrink_350_1400/0/1716721910524?e=1722470400&v=beta&t=2LQ2klU1TVdzr_AxJm-mgKy6YewikBORQlq_YDYbRLo)
 
-### Hi there 👋, my name is Masum Billah
+###👋 Hi, I'm Masum Billah! I’m the Web Developer/Software Engineer (.NET), ACCESS INFO TECH LTD Who is Enhancing and maintaining the admin and user panels for Otobi.com; managing software for Crown Container Ltd., Crown Logistics Ltd., and Hi-tech (HR and showroom) and Building expertise with ASP.NET Core, MVC, Web API, and Entity Framework.
 #### Dot Net Developer
 
 
-I'm a passionate Full Stack Developer with a strong focus on .NET technology.
 
-**Key Skills & Expertise**
 
-**.NET Development:** Extensive experience with the .NET ecosystem, including ASP.NET Core, MVC, Web API, and Entity Framework.
-
-**Full Stack Development:** Proficient in both front-end and back-end technologies, including JavaScript, HTML, CSS, Angular, and React.
-
-**Database Management:** Skilled in SQL Server.
-
-**Problem-Solving:** Adept at troubleshooting and solving complex technical problems with innovative solutions.
-
-**Patience & Perseverance:** Committed to continuous learning and improvement, with the patience to tackle challenging projects and debug intricate issues.
-
-**Pressure Handling:** Proven ability to perform effectively under pressure, meeting tight deadlines without compromising on quality.
-
-**Collaboration & Communication:** Strong team player with excellent communication skills, able to collaborate effectively with cross-functional teams.
+**Technical Skills 🛠️**
+•	ASP.NET Development
+•	Front-End/Back-End Technologies
+•	Database Management
+•	API Development
+•	Full-Stack Development
+•	WordPress Management
+•	Software Maintenance
+•	Problem-Solving
+•	Project Management
+•	Team Collaboration
+ 
+ 
                                            
-**My Approach**
+**Professional Goals 🚀**
+**Career Development:**  Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+**Continuous Learning:**  Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
-**Quality Code:** I believe in writing clean, maintainable, and efficient code. Following best practices and industry standards is a priority in all my projects.
-
-**Continuous Learning:** Technology is always evolving, and so am I. I stay updated with the latest trends and advancements in the development world to ensure I'm using the best tools and methodologies available.
-
-**User-Centric Solutions:** My goal is to develop applications that not only meet technical requirements but also provide an exceptional user experience.
-
-**Agile Methodology:** Comfortable working in agile environments, I thrive in iterative development cycles and adaptive planning.
-
-I'm excited about the future of technology and am always looking for new challenges and opportunities to grow as a developer. Let's connect and collaborate on creating impactful software solutions!
-
-Feel free to reach out or check out my projects to see what I've been working on.
-
-**Skills:** MSSQL / C# / ASP.Net / ASP.Net Core / Entity Framework / ADO.Net / Bootstrap / Angular / REACT / MAUI / JS / HTML / CSS
 
 - 🔭 I’m currently working on Tour & Travel management software 
 - 🌱 I’m currently learning MAUI 
