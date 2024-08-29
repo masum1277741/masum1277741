@@ -1,11 +1,11 @@
 
-###👋 Hi, I'm Masum Billah! I’m the Web Developer/Software Engineer (.NET), ACCESS INFO TECH LTD Who is Enhancing and maintaining the admin and user panels for Otobi.com; managing software for Crown Container Ltd., Crown Logistics Ltd., and Hi-tech (HR and showroom) and Building expertise with ASP.NET Core, MVC, Web API, and Entity Framework.
-#### Dot Net Developer
+👋 Hi, I'm Masum Billah! I’m the Web Developer/Software Engineer (.NET), ACCESS INFO TECH LTD Who is Enhancing and maintaining the admin and user panels for Otobi.com; managing software for Crown Container Ltd., Crown Logistics Ltd., and Hi-tech (HR and showroom) and Building expertise with ASP.NET Core, MVC, Web API, and Entity Framework.
 
 
 
 
 **Technical Skills 🛠️**
+
 •	ASP.NET Development
 •	Front-End/Back-End Technologies
 •	Database Management
@@ -20,7 +20,9 @@
  
                                            
 **Professional Goals 🚀**
+
 **Career Development:**  Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+
 **Continuous Learning:**  Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
 
