@@ -26,8 +26,8 @@
 **Continuous Learning:**  Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
 
-- 🔭 I’m currently working on Tour & Travel management software 
-- 🌱 I’m currently learning MAUI 
+- 🔭 I’m currently working as a Web Developer/Software Engineer (.NET), ACCESS INFO TECH LTD. 
+- 🌱 I’m currently learning ASP.NET Core Advanced 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Dot Net  
 - 📫 How to reach me: 58masumbillah@gmail.com 
