@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:masumbillah.yahoo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-masum.billah.dev@gmail.com-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-masumbillah.yahoo@gmail.com-red?style=flat-square&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/masum1277741">
     <img src="https://img.shields.io/badge/LinkedIn-masum1277741-blue?style=flat-square&logo=linkedin" />
@@ -17,10 +17,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as a **Web Developer (.NET)** at **ACCESS INFO TECH LTD.**
+- 🔭 Currently working as a **Software Developer (.NET)** at **ACCESS INFO TECH LTD.**
 - 🌱 Learning **ASP.NET Core, MVC, Web API, and Entity Framework**
 - 💬 Ask me about **.NET technologies, C#, and web development**
-- 📫 Reach me at **masum.billah.dev@gmail.com**
+- 📫 Reach me at **masumbillah.yahoo@gmail.com**
 - 📄 Know more about my experiences on [LinkedIn](https://www.linkedin.com/in/masum1277741)
 
 ---
